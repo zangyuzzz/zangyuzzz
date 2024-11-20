@@ -1,0 +1,67 @@
+饭太硬2   http://1805842a.123nat.com:66/agent/2.txt
+饭太硬ipv6 2 https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+饭太硬1   https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+宝盒直播 https://ygbh.site/bh.txt
+讴歌直播 https://tv.nxog.top/m/tv/1/
+二小直播 https://live.fanmingming.com/tv/m3u/ipv6.m3u
+小米直播 https://tv.iill.top/m3u/Gather
+小马直播 https://szyyds.cn/tv/live/x.txt
+D佬魔改 http://rihou.cc:555/gggg.nzk
+龙伊直播 https://龙伊.top/直播/IPV6.txt
+              https://龙伊.top/直播
+典藏 版 https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+小盒子直播去聚合   https://www.juwanhezi.com/more/live
+云储   https://wds.ecsxs.com/230580.json
+          https://huangsuming.github.io/iptv/list/tvlist.txt
+美家TV  http://www.iptv6.icu:5212/f/mPLia/mytv.txt
+ yuanzl77          http://175.178.251.183:6689/live.txt
+yang1989  https://tv.iill.top/m3u/Gather
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+自动更新库1  https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+自动更新库2 http://175.178.251.183:6689/live.txt
+自动更新库3 https://m3u.ibert.me/txt/fmml_dv6.txt
+自动更新库4 https://m3u.ibert.me/txt/o_cn.txt
+自动更新库5 https://m3u.ibert.me/txt/j_iptv.txt
+自动更新库6 https://github.moeyy.xyz/
+自动更新库7 https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
+自动更新库8 https://ghproxy.net/https://raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+自动更新库9 https://ghproxy.net/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
+自动更新库10 http://itv.22m.top/ITVBox/tv/tvonline.txt
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+范明明	https://live.fanmingming.com/tv/m3u/ipv6.m3u	IPV6 端口	✔️	✔️
+范明明	https://live.fanmingming.com/tv/m3u/itv.m3u	IPV4	✔️	✔️
+VBSkyCN	https://live.zhoujie218.top/tv/iptv6.m3u	IPV6 端口	❌	✔️
+VBSkyCN	https://live.zhoujie218.top/tv/iptv4.m3u	IPV4	❌	✔️
+AKTV 公司	http://aktv.top/live.m3u	IPV4	❌	❌
+颜 G-1989	https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u	IPV6 端口	✔️	✔️
+颜 G-1989	https://tv.iill.top/m3u/Gather	IPV4/6 端口	✔️	✔️
+悦禅	https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u	IPV6 端口	❌	✔️
+金门坦	https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u	IPV4/6 端口	✔️	✔️
+燃烧 C4	https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u	IPV4	❌	❌
+乔维斯	https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u	IPV4	❌	✔️
+传说引导页	http://tot.totalh.net/tttt.txt	IPV4	❌	❌
+Ftindy的	https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u	IPV6 端口	✔️	✔️
+iptv 源	https://m3u.ibert.me/fmml_ipv6.m3u	IPV6 端口	
+
+
+
+
+点播源
+名称	地址	类型
+饭太硬	http://www.饭太硬.com/tv/	源
+liucn	https://raw.liucn.cc/box/m.json	源
+OK猫开发	http://ok321.top/ok	源
+高天流云	https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json	源
+肥猫	http://like.肥猫.com/你好	源
+安卓哥	https:// 安卓哥.com	源
+盒子迷	https:// 盒子迷.top/禁止贩卖	源
+摸鱼儿	http:// 我不是.摸鱼儿.com	源
+ZWC365	http://kv.zwc365.com/tv.json	源
+黎歌	https://lige.chat/tvbox	源导航
+云涧鹤	https://flowus.cn/share/cb13f47f-f1fa-41d4-bcc6-e184bcc64f56	源导航
